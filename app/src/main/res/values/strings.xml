@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">constraintProyects</string>
+    <string name="titulo_view">Ingrese el Proyecto de gestión del espacio público</string>
+    <string name="id_view">ID:</string>
+    <string name="nombre_view">Nombre:</string>
+    <string name="descripcion_view">Descripción:</string>
+    <string name="fecha_view">Fecha prevista:</string>
+    <string name="localidad_view">Localidad:</string>
+    <string name="contacto_view">Contacto:</string>
+    <string name="guardar_button">Guardar</string>
+</resources>
